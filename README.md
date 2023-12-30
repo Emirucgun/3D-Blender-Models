@@ -10,7 +10,7 @@ Each project focuses on different concepts and techniques, evolving as a result 
 * Sparky
 
 I modeled the sparky character from Clash Royale game.<br>
-For images or renders, navigate to the "/Sparky" folder.
+For files and renders, navigate to the "/Sparky" folder.
 
 ## Last words from me:
 **If you wish to contribute to my projects or suggest improvements, you can download the file and do whatever you want.** <br>
